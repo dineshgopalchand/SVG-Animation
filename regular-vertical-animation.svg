@@ -1,0 +1,61 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="727" viewBox="0 0 136 727">
+  <g id="bg_animated" transform="translate(-1095 -41)">
+    <g id="Group_214" data-name="Group 214">
+      <rect id="Rectangle_588" data-name="Rectangle 588" width="10" height="727" transform="translate(1095 41)" fill="#041722"/>
+      <rect id="Rectangle_589" data-name="Rectangle 589" width="8" height="727" transform="translate(1115 41)" fill="#041722"/>
+      <rect id="Rectangle_590" data-name="Rectangle 590" width="9" height="727" transform="translate(1134 41)" fill="#041722"/>
+      <rect id="Rectangle_591" data-name="Rectangle 591" width="9" height="727" transform="translate(1184 41)" fill="#041722"/>
+      <rect id="Rectangle_592" data-name="Rectangle 592" width="10" height="727" transform="translate(1203 41)" fill="#041722"/>
+      <rect id="Rectangle_593" data-name="Rectangle 593" width="9" height="727" transform="translate(1222 41)" fill="#041722"/>
+    </g>
+    <g id="down_scrollin">
+      <rect id="golw_1" width="10" height="85.212" rx="5" transform="translate(1095 63.894)" fill="#4cbdff">
+      <animate attributeType="XML" 
+      attributeName="y" 
+      from="-100" to="720"
+      dur="5s" 
+      repeatCount="indefinite"/>
+      </rect>
+      <rect id="glow_2" width="8" height="85.212" rx="4" transform="translate(1115 63.894)" fill="#4cbdff">
+      <animate attributeType="XML" 
+      attributeName="y" 
+      from="-100" to="720"
+      dur="7s" 
+      repeatCount="indefinite"/>
+      </rect>
+
+      <rect id="glow_3" width="9" height="85.212" rx="4.5" transform="translate(1134 63.894)" fill="#4cbdff">
+      <animate attributeType="XML" 
+      attributeName="y" 
+      from="-100" to="720"
+      dur="9s" 
+      repeatCount="indefinite"/>
+      </rect>
+
+      <rect id="glow_4" width="9" height="85.212" rx="4.5" transform="translate(1184 63.894)" fill="#4cbdff">
+      <animate attributeType="XML" 
+      attributeName="y" 
+      from="-100" to="720"
+      dur="5s" 
+      repeatCount="indefinite"/>
+      </rect>
+      <rect id="glow_5" width="10" height="85.212" rx="5" transform="translate(1203 63.894)" fill="#4cbdff">
+      
+      <animate attributeType="XML" 
+      attributeName="y" 
+      from="-100" to="720"
+      dur="7s" 
+      repeatCount="indefinite"/>
+
+      </rect>
+      <rect id="glow_6" width="9" height="85.212" rx="4.5" transform="translate(1222 63.894)" fill="#4cbdff">
+      <animate attributeType="XML" 
+      attributeName="y" 
+      from="-100" to="720"
+      dur="9s" 
+      repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
